@@ -20,7 +20,7 @@
   "devDependencies": {
     "typescript": "^3.7.4",
     "chai": "^4.2.0",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "topology-core": "^0.1.7"
